@@ -10,6 +10,6 @@ class Person{
     sayHello():void{
         console.log("hello "+this.p_name+" of "+ this.p_age);
     }
-}
-let mohan= new Person('Mohan', 22);
-mohan.sayHello();
+};
+let Mohan= new Person('Mohan', 22);
+Mohan.sayHello();

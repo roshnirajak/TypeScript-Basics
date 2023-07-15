@@ -5,9 +5,14 @@ interface Student{
     course: string;
 };
 
-let rosh:Student={
+let roshni:Student={
     name:'Roshni',
     age:21,
     course:'BCA'
+};
+let danny:Student={
+    name:'Danny',
+    age:22,
+    course:'Yt'
 };
 console.log(rosh);
