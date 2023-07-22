@@ -15,4 +15,4 @@ let danny:Student={
     age:22,
     course:'Yt'
 };
-console.log(rosh);
+console.log(roshni);
